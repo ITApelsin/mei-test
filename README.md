@@ -6,5 +6,6 @@ cd out
 или
 
 ```bash
+cd out
 java -jar app.jar <путь к эксель файлу>
 ```
